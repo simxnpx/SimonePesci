@@ -61,8 +61,3 @@
 Co-author of **BlockHealth: a Blockchain based Framework for Secure and Efficient Healthcare Data Management**  
 🔗 DOI: [https://doi.org/10.1016/j.bcra.2026.100468](https://doi.org/10.1016/j.bcra.2026.100468)
 
----
-
-<p align="center">
-  <i>Simple interfaces. Secure foundations. Reliable systems.</i>
-</p>
