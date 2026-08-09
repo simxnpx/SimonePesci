@@ -21,7 +21,6 @@
 - Full-stack platforms with **React**, **Next.js**, **Django**, and **NestJS**
 - Cloud workflows with **AWS**, **Docker**, **Nginx**, and **GitHub Actions**
 - Distributed systems, service meshes, and backend architecture
-- Systems programming with **Go** and **Rust**
 
 ---
 
