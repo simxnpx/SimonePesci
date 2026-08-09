@@ -28,8 +28,6 @@
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| [GoMesh](https://github.com/SimonePesci/GoMesh) | Service mesh from scratch with a gRPC control plane, proxy registration, metrics, and tracing. | Go, gRPC, Protobuf, Prometheus |
-| [OpenTunnel](https://github.com/SimonePesci/opentunnel) | Secure, high-performance tunneling tool inspired by ngrok/cloudflared, built to explore low-level networking and efficient protocol design. | Rust, Tokio, TCP |
 | [BlockHealth](https://github.com/SimonePesci/ResearchUnimi--FHIR) | Secure healthcare framework using blockchain identity, Merkle integrity, Cassandra, and proxy re-encryption. | Node.js, Solidity, Flask, Cassandra |
 | [FastTx](https://github.com/SimonePesci/FastTx) | Off-chain micro-transaction framework designed to reduce blockchain gas costs. | Node.js, Solidity, Ethereum |
 
