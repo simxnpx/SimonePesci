@@ -30,7 +30,7 @@
 |:---|:---|:---|
 | [BlockHealth](https://github.com/SimonePesci/ResearchUnimi--FHIR) | Secure healthcare framework using blockchain identity, Merkle integrity, Cassandra, and proxy re-encryption. | Node.js, Solidity, Flask, Cassandra |
 | [FastTx](https://github.com/SimonePesci/FastTx) | Off-chain micro-transaction framework designed to reduce blockchain gas costs. | Node.js, Solidity, Ethereum |
-| [FlappyBirdEscape](https://github.com/SimonePesci/FlappyBirdEscape)) | My implemnetation of a Flappy Bird game for a University projects | Java, JavaFx, MVC |
+| [FlappyBirdEscape](https://github.com/SimonePesci/FlappyBirdEscape) | My implemnetation of a Flappy Bird game for a University projects | Java, JavaFx, MVC |
 
 ---
 
